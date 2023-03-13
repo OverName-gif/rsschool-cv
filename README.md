@@ -1,1 +1,1 @@
-https://OverName-gif.github.io/rsschool-cv/index.html
+https://OverName-gif.github.io/rsschool-cv/
