@@ -1,2 +1,1 @@
-MARKDOWN: https://elijah-i.github.io/rsschool-cv/cv
-HTML: https://elijah-i.github.io/rsschool-cv/
+https://OverName-gif.github.io/rsschool-cv/
